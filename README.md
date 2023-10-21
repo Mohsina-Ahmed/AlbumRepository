@@ -58,7 +58,7 @@ There are two videos to support:
   ; pipenv install
   ```
 
-  If that works, great! If not, contact your coach.
+  If that works, great! If not, best luck....
 
   ---
 </details>
